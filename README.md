@@ -1801,7 +1801,7 @@ NameError: name 'e' is not defined
 
 #### 💡 Объяснение:
 
-* Source: https://docs.python.org/3/reference/compound_stmts.html#except
+* Исходный код: https://docs.python.org/3/reference/compound_stmts.html#except
 
   When an exception has been assigned using `as` target, it is cleared at the end of the `except` clause. This is as if
 
@@ -1858,7 +1858,7 @@ NameError: name 'e' is not defined
 ---
 
 
-### ▶ Загадочное преобразование типа ключа [↑](#оглавление)
+### ▶ Загадочное преобразование типа ключа. [↑](#оглавление)
 <!-- Example ID: 00f42dd0-b9ef-408d-9e39-1bc209ce3f36 --->
 ```py
 class SomeClass(str):
@@ -2000,7 +2000,7 @@ ValueError: Exceeds the limit (4300) for integer string conversion:
 
 ## Раздел: Скользкие склоны
 
-### ▶ Изменение словаря во время итерации по нему [↑](#оглавление)
+### ▶ Изменение словаря во время итерации по нему. [↑](#оглавление)
 <!-- Example ID: b4e5cdfb-c3a8-4112-bd38-e2356d801c41 --->
 ```py
 x = {0: None}
@@ -2036,7 +2036,7 @@ Yes, it runs for exactly **eight** times and stops.
 
 ---
 
-### ▶ Упрямая операция `del` [↑](#оглавление)
+### ▶ Упрямая операция `del`. [↑](#оглавление)
 <!-- Example ID: 777ed4fd-3a2d-466f-95e7-c4058e61d78e --->
 <!-- read-only -->
 
